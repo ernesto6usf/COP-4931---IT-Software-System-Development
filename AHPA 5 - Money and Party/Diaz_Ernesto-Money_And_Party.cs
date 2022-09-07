@@ -1,4 +1,4 @@
-﻿// COP 4931 - Applied Data and Information Security
+﻿// COP 4931 - IT Software Systems Development
 // Instructor - James Anderson
 // Student - Ernesto Diaz
 // Assignment - AHPA 5: Money & Party
