@@ -25,11 +25,11 @@ string inputID = Console.ReadLine();
 // Make sure string isnt empty or null
 if (!string.IsNullOrEmpty(inputID))
 {
-    if (inputID[0] == 'U')
+    if (inputID[0] == 'U' || inputID[0] == 'u')
     {
         Console.WriteLine("Welcome in!");
     }
-    else if (inputID[0] == 'F')
+    else if (inputID[0] == 'F' || inputID[0] == 'f')
     {
         Console.WriteLine("Sorry, you are not cool enough. :(");
     }
