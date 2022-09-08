@@ -1,6 +1,6 @@
 ﻿// COP 4931 - IT Software Systems Development
 // Instructor - James Anderson
-// Student - Ernesto Diaz Collazo
+// Student - Ernesto Diaz
 // Assignment - AHPA 5: Money & Party
 
 
