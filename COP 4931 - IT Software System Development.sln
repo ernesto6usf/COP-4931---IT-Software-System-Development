@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 5 - Money and Party", "AHPA 5 - Money and Party\AHPA 5 - Money and Party.csproj", "{E23D6995-3CF0-46CC-830A-91E73E71FF9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 6 - Birthdays", "AHPA 6 - Birthdays\AHPA 6 - Birthdays.csproj", "{FAE388D6-7017-4B46-811C-8F4475B85765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 6 - Birthdays", "AHPA 6 - Birthdays\AHPA 6 - Birthdays.csproj", "{FAE388D6-7017-4B46-811C-8F4475B85765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 7 - The Party", "AHPA 7 - The Party\AHPA 7 - The Party.csproj", "{D5F24D37-4901-44E5-BA44-674CEE9ABFC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FAE388D6-7017-4B46-811C-8F4475B85765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE388D6-7017-4B46-811C-8F4475B85765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE388D6-7017-4B46-811C-8F4475B85765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F24D37-4901-44E5-BA44-674CEE9ABFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F24D37-4901-44E5-BA44-674CEE9ABFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F24D37-4901-44E5-BA44-674CEE9ABFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F24D37-4901-44E5-BA44-674CEE9ABFC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
