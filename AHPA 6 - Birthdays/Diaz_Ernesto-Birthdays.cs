@@ -1,7 +1,7 @@
 ﻿// COP 4931 - IT Software Systems Development
 // Instructor - James Anderson
 // Student - Ernesto Diaz
-// Assignment - AHPA 6: Birthday
+// Assignment - AHPA 6: Birthdays
 
 // Create array with names and print to console
 string[] students = new string[] { "Jen Thompson", "Mike Hatch", "Ryan Jenkins" };
