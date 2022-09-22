@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 6 - Birthdays", "AHPA 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 7 - The Party", "AHPA 7 - The Party\AHPA 7 - The Party.csproj", "{D5F24D37-4901-44E5-BA44-674CEE9ABFC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 8 - The Stamp Collector", "AHPA 8 - The Stamp Collector\AHPA 8 - The Stamp Collector.csproj", "{5BE6FA5E-6950-4955-A4B8-CD11EC2AF60B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 8 - The Stamp Collector", "AHPA 8 - The Stamp Collector\AHPA 8 - The Stamp Collector.csproj", "{5BE6FA5E-6950-4955-A4B8-CD11EC2AF60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 9 - The Money Changer", "AHPA 9 - The Money Changer\AHPA 9 - The Money Changer.csproj", "{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5BE6FA5E-6950-4955-A4B8-CD11EC2AF60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE6FA5E-6950-4955-A4B8-CD11EC2AF60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE6FA5E-6950-4955-A4B8-CD11EC2AF60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
