@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 8 - The Stamp Collecto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 9 - The Money Changer", "AHPA 9 - The Money Changer\AHPA 9 - The Money Changer.csproj", "{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_1", "Homework_1\Homework_1.csproj", "{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
