@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 7 - The Party", "AHPA 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 8 - The Stamp Collector", "AHPA 8 - The Stamp Collector\AHPA 8 - The Stamp Collector.csproj", "{5BE6FA5E-6950-4955-A4B8-CD11EC2AF60B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 9 - The Money Changer", "AHPA 9 - The Money Changer\AHPA 9 - The Money Changer.csproj", "{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AHPA 9 - The Money Changer", "AHPA 9 - The Money Changer\AHPA 9 - The Money Changer.csproj", "{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_1", "Homework_1\Homework_1.csproj", "{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 10 - The Car Problem", "AHPA 10 - The Car Problem\AHPA 10 - The Car Problem.csproj", "{79C4E1AA-3614-478D-A394-462BB5B72333}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{641DCD65-ED8F-44DE-91A4-BFEAADFB76C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6D177DA-24AF-4EC2-A852-5CFC4CFFB4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C4E1AA-3614-478D-A394-462BB5B72333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C4E1AA-3614-478D-A394-462BB5B72333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C4E1AA-3614-478D-A394-462BB5B72333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C4E1AA-3614-478D-A394-462BB5B72333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
