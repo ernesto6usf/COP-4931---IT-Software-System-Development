@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 14 - Intro to Soccer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 15 - Student Data", "AHPA 15 - Student Data\AHPA 15 - Student Data.csproj", "{29E7A9AF-D7C1-458E-A5DD-18C1071F8F8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHPA 19 - The Middle Name Problem", "AHPA 19 - The Middle Name Problem\AHPA 19 - The Middle Name Problem.csproj", "{0B6612CA-B7A0-46B9-93DB-29AB0BD11D67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{29E7A9AF-D7C1-458E-A5DD-18C1071F8F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E7A9AF-D7C1-458E-A5DD-18C1071F8F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E7A9AF-D7C1-458E-A5DD-18C1071F8F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6612CA-B7A0-46B9-93DB-29AB0BD11D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6612CA-B7A0-46B9-93DB-29AB0BD11D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6612CA-B7A0-46B9-93DB-29AB0BD11D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6612CA-B7A0-46B9-93DB-29AB0BD11D67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
